@@ -1,7 +1,7 @@
 # Singly linked list
 ![SF](https://user-images.githubusercontent.com/76991612/203043464-80f7ea45-2639-477f-a786-1208df08cd39.jpg)
 # Task description:
-Implement a singly linked ordered list class without repeats and a package of methods for it.
+Implement a singly linked ordered circular list without repeats and a package of methods for it.
  
  
  &nbsp;
